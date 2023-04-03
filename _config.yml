@@ -17,7 +17,7 @@ title: Project in Artificial Intelligence
 tagline: CS 175
 description: Welcome to Project in Artificial Intelligence
 author: Nadia Ahmed
-baseurl: '/UC-Irvine-CS175/uci-cs175.github.io/just-the-class' # the subpath of your site, e.g. /blog
+baseurl: '/UC-Irvine-CS175.github.io/uci-cs175' # the subpath of your site, e.g. /blog
 url: 'https://github.com' # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/images/valentin_brain_logo.png"
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
@@ -37,7 +37,7 @@ aux_links:
   Github:
     - 'https://github.com/' 
   Gradescope:
-    - 'https://gradescope.com/'
+    - 'https://gradescope.com/courses/528399'
 footer_content:
 
 # Collections for website data

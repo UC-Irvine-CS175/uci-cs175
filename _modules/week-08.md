@@ -4,12 +4,12 @@ title: Week 8
 
 May 22
 : [Continual Learning](#)
-  : -
+  : 
 
 
 May 24
 : [Model Monitoring](#)
-  : -
+  : 
 
 May 26
 : [Project Management in ML Teams](#)

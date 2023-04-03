@@ -9,8 +9,8 @@ May 29
 
 May 31
 : [Project Questions: Repo Cleaning](#)
-  : -
+  : 
 
 June 2
 : [Project Questions: Documentation](#)
-  : **Section: Code Review**{: .label .label-purple }[PR](#)
+  : **Section: Code Review**{: .label .label-purple }

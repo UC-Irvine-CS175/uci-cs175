@@ -9,7 +9,7 @@ April 3
 
 April 5
 : [Challenge Unveiling: Big Questions and How we Fail](#)
-  : -
+  :
 
 April 7
 : [Challenge](#)

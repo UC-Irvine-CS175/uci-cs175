@@ -17,8 +17,35 @@ description: >-
 ---
 
 ## About
+Welcome to CS 175: Project in Artificial Intelligence!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+Construction of a working artificial intelligence system. Evaluation of capabilities of the system including impact of knowledge representation.
+
+Prerequisite: COMPSCI 171 and COMPSCI 178
+
+Course title and number: This provides a clear identification of the course.
+
+Instructor information: The instructor's name, office hours, contact information, and preferred method of communication.
+
+Course description: A brief summary of the course content, goals, and objectives.
+
+Learning objectives: A list of specific and measurable learning outcomes that the students are expected to achieve.
+
+Required materials: This includes all textbooks, readings, software, and other materials required for the course.
+
+Course policies: This includes information on attendance, tardiness, participation, academic integrity, and grading policies.
+
+Course schedule: This outlines the topics to be covered in each class session and the due dates for assignments.
+
+Assessment methods: This includes the types of assignments, exams, and other assessments used to evaluate student learning.
+
+Accommodations for students with disabilities: Information on how students with disabilities can request accommodations.
+
+Additional resources: This includes information on tutoring services, academic support, and other resources available to students.
+
+Important dates: This includes dates for holidays, exams, and other important events that affect the course schedule.
+
+Contact information for academic support services: Information on where students can go for additional help outside of class.
 
 ## Lecture
 

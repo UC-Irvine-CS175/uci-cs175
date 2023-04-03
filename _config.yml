@@ -32,12 +32,12 @@ permalink: pretty
 aux_links:
   Canvas:
     - 'https://canvas.eee.uci.edu/'
-  Ed:
-    - 'https://edstem.org/'
-  Gradescope:
-    - 'https://www.gradescope.com/' 
+  Discord:
+    - 'https://discord.com/'
   Github:
-    - 'https://github.com' 
+    - 'https://github.com/' 
+  Gradescope:
+    - 'https://gradescope.com/'
 footer_content:
 
 # Collections for website data

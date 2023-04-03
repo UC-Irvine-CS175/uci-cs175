@@ -109,16 +109,19 @@ Your final project will be graded based on several factors.
 Life happens, we get it. Each student is allowed up to **3 "grace days"** to use towards their individual assignement and each team is allowed **4 "grace days"** to use towards their project deadlines. How you choose to distribute them is up to you but once you run out, and you still haven't submitted the assignment you will receive a zero for the assignment. Due to the time sensitivity of the task, design sprint exercises are not eligible for "grace day" usage. If you submit team project proposal, status report, or final project items late you and all team members will have to use grace days.
 
 ## Grades
-| **Component** | **Weight** | 
-| Participation | 10% |
-| Assignments | 20% |
-| Proposal | 10% |
-| Pull Requests | 5% each individual request X 6 |
-| Status Report | 5% |
-| Final Repository with Documentation | 10% |
-| Poster | 5% |
-| Presentation | 5% |
-| Tech Memo | 5% |
+
+| **Component** | **Weight** | **Notes** |
+| ------------- | ---------- |
+| Participation | 10% | |
+| Assignments | 20% | |
+| Proposal | 10% | |
+| Pull Requests | 30% |5% each x 6|
+| Status Report | 5% | |
+| Final Repository with Documentation | 10% | |
+| Poster | 5% | |
+| Presentation | 5% | |
+| Tech Memo | 5% | |
+
 
 ### Regrade Requests
 If you'd like to request a regrade on any assignment, you must do so within one
@@ -141,36 +144,3 @@ Any student who feels he or she may need an accommodation based on the impact of
 
 ## Syllabus Changes
 The staff reserve the right to change this syllabus without limitation and without prior notice. If any item or policy is modified, the teaching staff will notify students directly.
-### Campus Resources
-
-Academics
-Academic Honesty policies
-Center for Excellence in Writing and Communication
-Libraries
-UCI Libraries home
-Library Tutorial
-Subject guides
-Ask a Librarian
-How to use the libraries
-Research resources
-Computing
-Computing labs
-Accommodations for students with disabilities: Information on how students with disabilities can request accommodations.
-
-Additional resources: This includes information on tutoring services, academic support, and other resources available to students.
-
-Important dates: This includes dates for holidays, exams, and other important events that affect the course schedule.
-
-Contact information for academic support services: Information on where students can go for additional help outside of class.
-
-## Lecture
-
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
-
-## Resources
-
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
-
-## Assignments
-
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.

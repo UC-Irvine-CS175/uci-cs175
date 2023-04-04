@@ -21,7 +21,18 @@ author: Nadia Ahmed
 baseurl: "/uci-cs175"
 url: "https://UC-Irvine-CS175.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/images/valentin_brain_logo.png"
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+#exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - any_additional_item # any user-specific listing goes at the end
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.4.2

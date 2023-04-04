@@ -18,8 +18,8 @@ tagline: CS 175
 description: Welcome to Project in Artificial Intelligence
 author: Nadia Ahmed
 #baseurl: 'UC-Irvine-CS175/uci-cs175' # the subpath of your site, e.g. /blog
-#baseurl: "/uci-cs175"
-url: "https://UC-Irvine-CS175.github.io/uci-cs175" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/uci-cs175"
+url: "https://UC-Irvine-CS175.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/images/valentin_brain_logo.png"
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 

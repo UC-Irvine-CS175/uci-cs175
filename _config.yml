@@ -21,7 +21,6 @@ author: Nadia Ahmed
 baseurl: "/blogjekyll"
 url: "https://UC-Irvine-CS175.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/images/valentin_brain_logo.png"
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 
 # Theme settings

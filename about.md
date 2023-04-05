@@ -99,6 +99,8 @@ Code reviews for each team will take place every Friday in discussion section. T
 Present midterm milestones that have been reached as well as refinement of the ML system components. At this stage, baseline models should be identified and prototyped.
 
 ### The Final Project
+For the final project, you can work in groups of 2-3 people. In terms of time commitment, expect to take roughly **40 hours per person total**.
+
 Your final project will be graded based on several factors.
   * Repository - The repository must have the appropriate structure and documentation for reproducibility of the study.
   * Technical Memorandum - Final project paper (template to be linked)
@@ -112,7 +114,7 @@ Life happens, we get it. Each student is allowed up to **3 "grace days"** to use
 
 | **Component** | **Weight** | **Notes** |
 | ------------- | ---------- |
-| Participation | 10% | |
+| Participation | 10% | Attendance & Engagement |
 | Assignments | 20% | |
 | Proposal | 10% | |
 | Pull Requests | 30% |5% each x 6|

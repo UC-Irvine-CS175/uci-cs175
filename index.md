@@ -11,7 +11,7 @@ nav_order: 1
 {: .fs-6 .fw-300 }
 
 <b style='color: green'> 👋 Welcome!</b>
-Please start by reading this website, especially the [syllabus](../syllabus) and the schedule below. 
+Please start by reading this website, especially the [syllabus](../about) and the schedule below. 
 
 ![uci_brain](/assets/images/valentin_brain_logo.png)
 

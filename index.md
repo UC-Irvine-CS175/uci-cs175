@@ -13,7 +13,7 @@ nav_order: 1
 <b style='color: green'> 👋 Welcome!</b>
 Please start by reading this website, especially the [syllabus](../syllabus) and the schedule below. 
 
-{{ site.staffersnobio }}
+{{ staffersnobio }}
 
 [Zoom Link for Remote Office Hours](https://uci.zoom.us/my/drbuci){: .btn .btn-blue }
 

@@ -28,7 +28,7 @@ schedule:
       - name: Office Hours
         start: 1:00 PM
         end: 2:00 PM
-        location: DBH 4208
+        location: TBD
   - name: Tuesday
   - name: Wednesday
     events:
@@ -39,7 +39,7 @@ schedule:
       - name: Office Hours
         start: 1:00 PM
         end: 2:00 PM
-        location: DBH 4208
+        location: TBD
   - name: Thursday
   - name: Friday
     events:
@@ -58,5 +58,5 @@ schedule:
       - name: Office Hours
         start: 1:00 PM
         end: 2:00 PM
-        location: DBH 4208
+        location: TBD
 ---

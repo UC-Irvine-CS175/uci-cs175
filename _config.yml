@@ -64,9 +64,7 @@ defaults:
       type: staffers
     values:
       layout: staffer
-      height: 300
       subpath: '/assets/images/'
-      width: 300
   - scope:
       path: ''
       type: modules
@@ -90,3 +88,6 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
+
+plugins:
+  - jekyll-seo-tag

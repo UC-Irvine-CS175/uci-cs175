@@ -1,11 +1,12 @@
 ---
 layout: page
-title: About
+title: Syllabus
 description: >-
     Course policies and information.
+nav_order: 2
 ---
 
-# About
+# Syllabus 📖
 {:.no_toc}
 
 ## Table of contents
@@ -15,7 +16,6 @@ description: >-
 {:toc}
 
 ---
-# Syllabus
 ## About
 Welcome to CS 175: Project in Artificial Intelligence!
 

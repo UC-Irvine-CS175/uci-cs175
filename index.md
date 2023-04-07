@@ -14,7 +14,7 @@ nav_order: 1
 Please start by reading this website, especially the [syllabus](../about) and the schedule below. 
 
 
-[Zoom Link for Remote Office Hours](https://uci.zoom.us/my/drbuci){: .btn .btn-blue }
+[Zoom Link for Screen Share](https://uci.zoom.us/my/drbuci){: .btn .btn-blue }
 
 {% for module in site.modules %}
 {{ module }}

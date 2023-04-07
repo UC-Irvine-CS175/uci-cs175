@@ -37,7 +37,7 @@ Lecture time will introduce main concepts and techniques of machine learning, fa
 Slides will be available online after each lecture with some latency to encourage attendance.
 
 ### Discussion
-There are two discussion sections held in [Social Ecology II 1302](https://goo.gl/maps/oNNhFoVeFi6GwMKy8)
+There are two discussion sections held in [Social Ecology II 1306](https://goo.gl/maps/oNNhFoVeFi6GwMKy8)
 - F 9-9:50AM
 - F 10-10:50AM
   

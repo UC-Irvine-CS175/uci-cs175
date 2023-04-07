@@ -12,5 +12,5 @@ April 5
 
 
 April 7
-: [Exploring the Data](#)
-  : HW1: Exploratory Data Analysis OUT
+: [Big Questions and the Challenge Map](#)
+  : HW1: Review OUT

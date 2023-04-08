@@ -55,11 +55,11 @@ schedule:
       - name: Geunwoo Office Hours
         start: 8:00 AM
         end: 10:00 AM
-        location: TBD
+        location: ICS 1 430D
       - name: Geunwoo Office Hours
         start: 1:00 PM
         end: 3:00 PM
-        location: TBD
+        location: ICS 1 430D
   - name: Friday
     events:
       - name: Section

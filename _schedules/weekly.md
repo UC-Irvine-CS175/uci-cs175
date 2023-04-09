@@ -29,6 +29,10 @@ schedule:
         start: 1:00 PM
         end: 2:00 PM
         location: DBH 4208
+      - name: Mitra OH
+        start: 4:00 PM
+        end: 6:00 PM
+        location: DBH 4011
   - name: Tuesday
   - name: Wednesday
     events:
@@ -40,7 +44,20 @@ schedule:
         start: 1:00 PM
         end: 2:00 PM
         location: DBH 4208
+      - name: Mitra OH
+        start: 4:00 PM
+        end: 6:00 PM
+        location: DBH 4011
   - name: Thursday
+    events:
+      - name: Geunwoo OH
+        start: 8:00 AM
+        end: 10:00 AM
+        location: ICS 1 430D
+      - name: Geunwoo OH
+        start: 1:00 PM
+        end: 3:00 PM
+        location: ICS 1 430D
   - name: Friday
     events:
       - name: Section

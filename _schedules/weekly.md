@@ -30,11 +30,11 @@ schedule:
       - name: Office Hours
         start: 1:00 PM
         end: 2:00 PM
-        location: SSL 140
+        location: DBH 4208
       - name: Mitra Office Hours
         start: 4:00 PM
         end: 6:00 PM
-        location: TBD
+        location: DBH 4011
   - name: Tuesday
   - name: Wednesday
     events:
@@ -45,11 +45,11 @@ schedule:
       - name: Office Hours
         start: 1:00 PM
         end: 2:00 PM
-        location: SSL 140
+        location: DBH 4208
       - name: Mitra Office Hours
         start: 4:00 PM
         end: 6:00 PM
-        location: TBD
+        location: DBH 4011
   - name: Thursday
     events:
       - name: Geunwoo Office Hours
@@ -77,5 +77,5 @@ schedule:
       - name: Office Hours
         start: 1:00 PM
         end: 2:00 PM
-        location: TBD
+        location: DBH 4208
 ---

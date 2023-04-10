@@ -30,7 +30,7 @@ schedule:
       - name: Office Hours
         start: 1:00 PM
         end: 2:00 PM
-        location: DBH 4208
+        location: SSL140/DBH4208
       - name: Mitra Office Hours
         start: 4:00 PM
         end: 6:00 PM
@@ -45,7 +45,7 @@ schedule:
       - name: Office Hours
         start: 1:00 PM
         end: 2:00 PM
-        location: DBH 4208
+        location: SSL140/DBH4208
       - name: Mitra Office Hours
         start: 4:00 PM
         end: 6:00 PM
@@ -77,5 +77,5 @@ schedule:
       - name: Office Hours
         start: 1:00 PM
         end: 2:00 PM
-        location: DBH 4208
+        location: SSL140/DBH4208
 ---

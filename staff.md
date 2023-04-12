@@ -17,16 +17,23 @@ Your friendly CS175 Teaching Staff is here to make sure you have a great experie
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
 
+{% assign tutor = site.staffers | where: 'role', 'Course Tutor' %}
+{% assign num_teaching_assistants = teaching_assistants | size %}
+{% if num_teaching_assistants != 0 %}
+
 {% assign domain_specialists = site.staffers | where: 'role', 'Domain Specialist' %}
 {% assign num_domain_specialists = domain_specialists | size %}
 {% if num_domain_specialists != 0 %}
 ## Teaching Assistants
-
 {% for staffer in teaching_assistants %}
 {{ staffer }}
 {% endfor %}
 {% endif %}
-
+## Course Tutor
+{% for staffer in tutor %}
+{{ staffer }}
+{% endfor %}
+{% endif %}
 ## Domain Specialists / Collaborators
 {% for staffer in domain_specialists %}
 {{ staffer }}

@@ -12,5 +12,5 @@ April 5
 
 
 April 7
-: [Big Questions and the Challenge Map](#)
+: [Big Questions and Why We Fail](https://miro.com/app/board/uXjVMWu-Mho=/)
   : HW1: Review OUT

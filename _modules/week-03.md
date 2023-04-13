@@ -3,15 +3,15 @@ title: Week 3
 ---
 
 April 17
-: [Art Gallery](#)
+: [Lightning Demos](#)
   : 
 
 
 April 19
-: [Art Gallery: Groupings & Themes](#)
+: [Art Gallery](#)
   : 
 
 April 21
-: [Tooling and Infrastructure](#)
+: [Art Gallery](#)
   : 
    : **Proposal due**{: .label .label-red }

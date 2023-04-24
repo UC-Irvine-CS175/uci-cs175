@@ -14,5 +14,5 @@ April 26
 April 28
 : [Computer Vision Concepts: Deep Learning Approaches](#)
   : 
-   : **Section: Code Review**{: .label .label-purple }
+   : **Revised Group Proposal Due**{: .label .label-red }
    : HW2 OUT

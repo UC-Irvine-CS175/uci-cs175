@@ -12,6 +12,6 @@ April 12
   : 
 
 April 14
-: [Ask the Experts: ML Specialist Edition](#)
+: [Ask the Experts: ML Specialist Edition](https://uci.zoom.us/rec/share/duDi0ZlbwMcSWuyLaVrZ5Ib32r9q1gt-tBkSgc_u61f99UP_GTdhS93F8WQe2cWR.t-dwsEcYatJ00TLz?startTime=1681499869000)
   : 
   : **HW 1 due**{: .label .label-red }

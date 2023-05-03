@@ -9,7 +9,7 @@ May 1
 
 May 3
 : [Getting Started: PyTorch](#)
-  : **HW2 Due**{: .label .label-red }
+  : 
 
 May 5
 : [Experiment Management](#)

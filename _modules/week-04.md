@@ -12,7 +12,7 @@ April 26
   : 
 
 April 28
-: [DL Fundamentals](#)
+: Facilitated Group Focus Prioritization
   : 
    : **Revised Group Proposal Due**{: .label .label-red }
    : HW2 OUT

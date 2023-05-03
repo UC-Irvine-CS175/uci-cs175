@@ -3,16 +3,15 @@ title: Week 5
 ---
 
 May 1
-: [Computer Vision Concepts](#)
+: [Getting Started: Infrastructure](https://docs.google.com/presentation/d/1sSTuzkwXi-9RPIfPVjyErDDd6X5f_f2_eN5CF2HjX3M/edit?usp=sharing)
   : 
 
 
 May 3
-: [Computer Vision Concepts](#)
+: [Getting Started: PyTorch](#)
   : 
 
 May 5
 : [Experiment Management](#)
   : 
    : **Section: Code Review**{: .label .label-purple }
-   : **HW 2 due**{: .label .label-red }

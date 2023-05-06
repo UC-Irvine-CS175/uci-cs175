@@ -8,10 +8,10 @@ May 1
 
 
 May 3
-: [Getting Started: PyTorch](#)
+: [Getting Started: PyTorch](https://docs.google.com/presentation/d/1jCaMC9y2jkf2fWnfsw_uudsvBgiL4OB9hgLuhkQwrmE/edit#slide=id.p)
   : 
 
 May 5
-: [Experiment Management](#)
+: [Friday Funday: Conda Environments and VSCode Live](#)
   : 
-   : **Section: Code Review**{: .label .label-purple }
+   : **Section: Conda Setup**{: .label .label-purple }

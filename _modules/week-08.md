@@ -15,3 +15,4 @@ May 26
 : [Project Management in ML Teams](#)
   : **Section: Code Review**{: .label .label-purple }
   : **Status Report DUE**{: .label .label-red }
+  : **HW3 Due**{: .label .label-red}

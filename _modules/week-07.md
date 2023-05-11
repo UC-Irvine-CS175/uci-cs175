@@ -9,9 +9,8 @@ May 15
 
 May 17
 : [Explainability](#)
-  : 
+  :**HW3 OUT** 
 
 May 19
 : [Deployment](#)
   : **Section: Code Review**{: .label .label-purple }
-  : **HW3 Due**{: .label .label-red}

@@ -12,6 +12,6 @@ May 3
   : 
 
 May 5
-: [Friday Funday: Conda Environments and VSCode Live](#)
+: [Friday Funday: Conda Environments and VSCode Live](https://drive.google.com/file/d/1PjgBVmkI2ia-NpQ_wzxgxIieWV_YEmiU/view?usp=sharing)
   : 
    : **Section: Conda Setup**{: .label .label-purple }

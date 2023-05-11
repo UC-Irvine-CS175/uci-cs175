@@ -11,4 +11,3 @@ Assignments are given using our course infrastructure for ideating, formulating 
 - [ ] Github classroom
 - [ ] Miro
 - [ ] Shared Google Drive
-{:toc}

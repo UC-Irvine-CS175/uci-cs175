@@ -11,7 +11,7 @@ nav_order: 1
 {: .fs-6 .fw-300 }
 
 <b style='color: green'> 👋 Welcome!</b>
-Please start by reading this website, especially the [syllabus](../about) and the schedule below. 
+Please start by reading this website, especially the [syllabus](https://uc-irvine-cs175.github.io/uci-cs175/about) and the schedule below. 
 
 
 [Zoom Link for Screen Share](https://uci.zoom.us/my/nadiauci){: .btn .btn-blue }

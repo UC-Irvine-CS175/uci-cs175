@@ -16,7 +16,7 @@ nav_order: 2
 {:toc}
 
 ---
-## About
+## About and Student Learning Outcomes
 Welcome to CS 175: Project in Artificial Intelligence!
 
 This course aims to enable students to construct a working artificial intelligence system and evaluate its capabilities, including the impact of knowledge representation on a real-world problem. 

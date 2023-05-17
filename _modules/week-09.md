@@ -3,14 +3,14 @@ title: Week 9
 ---
 
 May 29
-: [Ethics](#)
+: [Generative Adversarial Networks](#)
   : 
 
 
 May 31
-: [Project Questions: Repo Cleaning](#)
-  : 
+: [Graph Neural Networks](#)
+  :**HW3 Due**{: .label .label-red}
 
 June 2
-: [Project Questions: Documentation](#)
+: [Project Questions: Repo Management](#)
   : **Section: Code Review**{: .label .label-purple }

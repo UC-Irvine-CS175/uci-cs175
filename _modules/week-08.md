@@ -3,16 +3,15 @@ title: Week 8
 ---
 
 May 22
-: [Continual Learning](#)
-  : 
+: [Semantic Segmentation](#)
+  : HW3 OUT 
 
 
 May 24
-: [Model Monitoring](#)
+: [Self-Supervised Learning](#)
   : 
 
 May 26
-: [Project Management in ML Teams](#)
+: [Contrastive Learning](#)
   : **Section: Code Review**{: .label .label-purple }
   : **Status Report DUE**{: .label .label-red }
-  : **HW3 Due**{: .label .label-red}

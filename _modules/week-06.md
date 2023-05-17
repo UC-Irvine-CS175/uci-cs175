@@ -11,9 +11,9 @@ May 9
   : 
 
 May 10
-: [Image Classification](#)
+: [Image Classification](https://docs.google.com/presentation/d/191f-4HmI1R0JsnDTCF_euVj25FgvzJ5TXbUdP3dsLb8/edit?usp=sharing)
   : **HW 2 extension**{: .label .label-red}
 
 May 11
 : [HW Extension]
-  : **HW 2 due**{: .label .label-red}
+  : **~~HW 2 due~~**{: .label .label-red}

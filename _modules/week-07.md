@@ -14,4 +14,4 @@ May 17
 
 May 19
 : [Populating the Group Repo: Pull Requests](#)
-  : **Section: Code Review**{: .label .label-purple }
+  : **Section: Adapting the Dataset Class**{: .label .label-purple }

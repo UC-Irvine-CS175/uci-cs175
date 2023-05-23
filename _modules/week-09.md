@@ -3,12 +3,12 @@ title: Week 9
 ---
 
 May 29
-: [Generative Adversarial Networks](#)
+: [Semantic Segmentation](#)
   : 
 
 
 May 31
-: [Graph Neural Networks](#)
+: [](#)
   :**HW3 Due**{: .label .label-red}
 
 June 2

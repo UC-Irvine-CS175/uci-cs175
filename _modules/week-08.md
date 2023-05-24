@@ -8,7 +8,8 @@ May 22
 
 
 May 24
-: [Guest Speaker: Kevin Li on Transfer Learning](#)
+: [Guest Speaker: Kevin Li on Transfer Learning](https://uci.zoom.us/rec/share/U4odFghQYJuzAdG6eZrudR-fGKSBNaIFsmwoibFAXKSNqqpstdbnRtbFWD3Prnhk.t77lXXXOQVdL8jCX)
+: [Slides Link](https://docs.google.com/presentation/d/17lNJZYyv-Z5zSvckZuapwlY4Bxw7PreRMTXYxIU5Ivw/edit?usp=sharing)
   : HW3 OUT 
 
 May 26

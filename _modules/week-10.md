@@ -3,12 +3,12 @@ title: Week 10
 ---
 
 June 5
-: [Project Questions: Documentation](#)
+: [Team Focus Day](#)
   : 
 
 
 June 7
-: [Project Questions: Documentation](#)
+: [Team Focus Day](#)
   : 
 
 June 9

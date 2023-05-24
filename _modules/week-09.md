@@ -3,14 +3,15 @@ title: Week 9
 ---
 
 May 29
-: [Semantic Segmentation](#)
+: It's Memorial Day
   : 
 
 
 May 31
-: [](#)
+: [Experiment Tracking Using Weights and Biases](#)
   :**HW3 Due**{: .label .label-red}
 
 June 2
-: [Project Questions: Repo Management](#)
+: [Friday Funday: Incorporating HW3 for Final Project](#)
   : **Section: Code Review**{: .label .label-purple }
+  : Showcase templates OUT

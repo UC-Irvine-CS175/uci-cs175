@@ -114,13 +114,13 @@ Life happens, we get it. Each student is allowed up to **3 "grace days"** to use
 
 | **Component** | **Weight** | **Notes** |
 | ------------- | ---------- |
-| Participation | 10% | Attendance & Engagement |
+| Participation | 15% | Attendance & Engagement |
 | Assignments | 20% | |
 | Proposal | 10% | |
 | Pull Requests | 15% |5% each x 3|
 | Status Report | 10% | |
 | Final Repository with Documentation | 10% | |
-| Poster | 10% | |
+| Poster | 5% | |
 | Presentation | 10% | |
 | Tech Memo | 5% | |
 

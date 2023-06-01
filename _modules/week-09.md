@@ -8,7 +8,7 @@ May 29
 
 
 May 31
-: [Experiment Tracking Using Weights and Biases](#)
+: [Experiment Tracking Using Weights and Biases](https://docs.wandb.ai/guides/app/features/teams)
   :--HW3 Due--{: .label .label-red}
 
 June 2

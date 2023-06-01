@@ -13,6 +13,6 @@ May 24
   : HW3 OUT 
 
 May 26
-: [Friday Funday: PyTorch & PyTorch Lightning Getting Started](#)
+: [Friday Funday: PyTorch & PyTorch Lightning Getting Started](https://docs.google.com/presentation/d/1yUacJ_BKIC8DaQ99S_PNqNZ71vHJRMxx2ZJYfY28eMo/edit?usp=sharing)
   : **Section: Code Review**{: .label .label-purple }
   : **Status Report DUE**{: .label .label-red }

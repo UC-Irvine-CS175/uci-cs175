@@ -12,6 +12,6 @@ May 31
   :--HW3 Due--{: .label .label-red}
 
 June 2
-: [Friday Funday: Incorporating HW3 for Final Project](#)
+: [Friday Funday: PyTorch Lightning](https://docs.google.com/presentation/d/1v8y0gEi8iDnDHE2cb5miE6O1jvLvg01IlK5Z_M6rqds/edit?usp=sharing)
   : **Section: Code Review**{: .label .label-purple }
   : **HW3 Due**{: .label .label-red}

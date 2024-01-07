@@ -1,6 +1,6 @@
 ---
 name: Ash Hoover
 role: Domain Specialist
-affiliation: Planet Labs
+email: Planet Labs
 photo: ahoover.jpeg
 ---

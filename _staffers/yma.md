@@ -1,6 +1,7 @@
 ---
 name: Yanbiao Ma
 role: Domain Specialist
-email: Xidian University PhD Candidate
 photo: yma.jpeg
+meta:
+  Affiliation: Xidian University PhD Candidate
 ---

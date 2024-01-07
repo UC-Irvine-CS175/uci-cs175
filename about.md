@@ -29,17 +29,20 @@ Prerequisites: COMPSCI 171 and COMPSCI 178
 This course is adapted from UC Berkeley's CS194-080 Full Stack Deep Learning, created by Sergey Karayev, Josh Tobin, and Pieter Abbeel with recent contributions from Charles Frye. The course research workflow is inspired by the Heliophysics Inovation in Technology and Science Solar Dynamics Observatory (HITS-SDO) program coordinated by Subhamoy Chatterjee and Andres Jaramillo-Munoz of Southwest Research Institute with contributions from Anirudh Koul co-author of [Practical Deep Learning for Coud, Mobile, and Edge](https://learning.oreilly.com/library/view/practical-deep-learning/9781492034858/). Finally, this unique opportunity would not be possible without the contributions of Lauren Sanders of Blue Marble Space Institute of Science and NASA GeneLab.
 
 ### Lecture
-The lecture meets at [Social Science Lab (SSL) 140](https://goo.gl/maps/XBz5QSv8Xs59oKRm7) from:
-- MWF 12-12:50PM
+There are two sections for the course:
+- Lecture A: MW 3:30-4:50p [ALP 1600](https://classrooms.uci.edu/classroomtechnology/classrooms/alp/alp-1600)
+- Lecture B: W 5:30 - 8:20p [SH 174](https://classrooms.uci.edu/classroomtechnology/classrooms/sh/sh-174)
 
 Lecture time will introduce main concepts and techniques of machine learning, facilitation of a research design sprint, as well as cover domain knowledge necessary to get started. Consistent attendance is strongly recommended as you will get the opportunity to ask questions, interact with our scientific collaborator, and participate in group discussions. 
 
 Slides will be available online after each lecture with some latency to encourage attendance.
 
 ### Discussion
-There are two discussion sections held in [Social Ecology II 1306](https://goo.gl/maps/oNNhFoVeFi6GwMKy8)
-- F 9-9:50AM
-- F 10-10:50AM
+There are two discussions per course section:
+- Discussion A1: M 11-11:50AM [PSCB 120](https://classrooms.uci.edu/classroomtechnology/classrooms/pscb/pscb-120)
+- Discussion A2: M 12-12:50PM [PSCB 120](https://classrooms.uci.edu/classroomtechnology/classrooms/pscb/pscb-120)
+- Discussion B1: W 11-11:50AM [PSCB 120](https://classrooms.uci.edu/classroomtechnology/classrooms/pscb/pscb-120)
+- Discussion B2: W 12-12:50PM [PSCB 120](https://classrooms.uci.edu/classroomtechnology/classrooms/pscb/pscb-120)
   
 Discussion sessions are focused on implementation and practice with tooling via assignments and troubleshooting specifics with respect to your project implementation.
 

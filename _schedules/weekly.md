@@ -20,62 +20,50 @@ timeline:
   - '4:30 PM'
   - '5:00 PM'
   - '5:30 PM'
+  - '6:00 PM'
+  - '6:30 PM'
+  - '7:00 PM'
+  - '7:30 PM'
+  - '8:00 PM'
+  - '8:30 PM'
 schedule:
   - name: Monday
     events:
-      - name: Lecture
+      - name: Dis A1
+        start: 11:00 AM
+        end: 11:50 AM
+      - name: Dis A2
         start: 12:00 PM
         end: 12:50 PM
-        location: SSL 140 
-      - name: Office Hours
-        start: 1:00 PM
-        end: 2:00 PM
-        location: SSL140/DBH4208
-      - name: Mitra Office Hours
-        start: 4:00 PM
-        end: 6:00 PM
-        location: DBH 4011
+      - name: NA OH
+        start: 2:00 PM
+        end: 3:00 PM
+        location: TBD
+      - name: Lecture A
+        start: 3:30 PM
+        end: 4:50 PM
+        location: ALP 1600 
   - name: Tuesday
   - name: Wednesday
     events:
-      - name: Lecture
+      - name: Dis B1
+        start: 11:00 AM
+        end: 11:50 AM
+      - name: Dis B2
         start: 12:00 PM
         end: 12:50 PM
-        location: SSL 140 
-      - name: Office Hours
-        start: 1:00 PM
-        end: 2:00 PM
-        location: SSL140/DBH4208
-      - name: Mitra Office Hours
-        start: 4:00 PM
-        end: 6:00 PM
-        location: DBH 4011
-  - name: Thursday
-    events:
-      - name: Geunwoo Office Hours
-        start: 8:00 AM
-        end: 10:00 AM
-        location: ICS 1 430D
-      - name: Geunwoo Office Hours
-        start: 1:00 PM
+      - name: NA OH
+        start: 2:00 PM
         end: 3:00 PM
-        location: ICS 1 430D
+        location: TBD
+      - name: Lecture A
+        start: 3:30 PM
+        end: 4:50 PM
+        location: ALP 1600 
+      - name: Lecture B
+        start: 5:30 PM
+        end: 8:20 PM
+        location: SH 174
+  - name: Thursday
   - name: Friday
-    events:
-      - name: Section
-        start: 9:00 AM
-        end: 9:50 AM
-        location: SE2 1306
-      - name: Section
-        start: 10:00 AM
-        end: 10:50 AM
-        location: SE2 1306
-      - name: Lecture
-        start: 12:00 PM
-        end: 12:50 PM
-        location: SSL 140 
-      - name: Office Hours
-        start: 1:00 PM
-        end: 2:00 PM
-        location: SSL140/DBH4208
 ---

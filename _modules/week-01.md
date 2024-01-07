@@ -2,15 +2,10 @@
 title: Week 1 
 ---
 
-April 3
+January 8
 : [Course Motivation](https://docs.google.com/presentation/d/1Z6-ZJw75JYxD9e9nQfWu9UOrSyQJk3VcIZ8ye-Aci_U/edit?usp=sharing)
   : [Syllabus](../../about)
 
 
-April 5
+January 10
 : [Challenge Unveiling](https://docs.google.com/presentation/d/1louUiPaPELzQpfw4Ele5Us4NvrtWF7QFtnxTrpJJzvI/edit?usp=sharing)
-
-
-April 7
-: [Big Questions and Why We Fail](https://miro.com/app/board/uXjVMWu-Mho=/)
-  : HW1: Review OUT

@@ -1,13 +1,16 @@
 ---
 title: Week 2 
 ---
+January 15
+: [Big Questions and Why We Fail](https://miro.com/app/board/uXjVMWu-Mho=/)
+  : HW1: Review OUT
 
-April 10
+January 17
 : [Note-N-Map](https://miro.com/app/board/uXjVMWu-Mho=/)
   : 
 
 
-April 12
+January
 : [Ask the Experts: Domain Specialist Edition](https://uci.zoom.us/rec/share/8GDJQhPw0QYYhQ7Er8w9h8ax7Mktp8cEFi7Ylt8scChmniG5-StfxQdyyfHs0VZU.2id8tJGf0cwtwl6s?startTime=1681326970000)
   : 
 

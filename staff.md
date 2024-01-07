@@ -36,6 +36,6 @@ Your friendly CS175 Teaching Staff is here to make sure you have a great experie
 {% endif %}
 ## Domain Specialists / Collaborators
 {% for staffer in domain_specialists %}
-{{ staffer }}
+- {{ staffer.name }} ({{ staffer.role }}) - Affiliation: {{ staffer.affiliation }}
 {% endfor %}
 {% endif %}

@@ -29,7 +29,7 @@ Your friendly CS175 Teaching Staff is here to make sure you have a great experie
 {{ staffer }}
 {% endfor %}
 {% endif %}
-## Course Tutor
+## Course Tutors
 {% for staffer in tutor %}
 {{ staffer }}
 {% endfor %}

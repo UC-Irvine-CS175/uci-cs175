@@ -1,6 +1,7 @@
 ---
 title: All Weeks
 ---
+
 | Week | Date | Topic | Deadlines|
 |------|--------|-------|----------|
 | 1    | Jan 8  | Course Motivation | |

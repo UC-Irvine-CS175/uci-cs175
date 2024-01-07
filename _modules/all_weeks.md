@@ -1,6 +1,34 @@
 ---
 title: All Weeks
 ---
+| Week | Date | Topic | Deadlines |
+|------|------|-------|-----------|
+| 1  | Jan 8 | Course Motivation | |
+|    | Jan 10 | Challenge Unveiling | |
+| 2  | Jan 15 | Ask the Experts | |
+|    | Jan 17 | HMW Categorization + Voting | |
+|    | Jan 22 | Lightning Demos | |
+|    | Jan 24 | Art Gallery Proposals | |
+| 3  | Jan 29 | Tooling and Development Infrastructure | |
+|    | Jan 31 | Deep Learning Frameworks | |
+| 4  | Feb 5 | Computer Vision Tasks | |
+|    | Feb 7 | Computer Vision Tasks | |
+| 5  | Feb 12 | Semantic Segmentation | |
+|    | Feb 14 | Semantic Segmentation | |
+| 6  | Feb 19 | Model Training and Monitoring | |
+|    | Feb 21 | Transfer Learning | |
+| 7  | Feb 26 | Team Focus Check-ins | |
+|    | Feb 28 | Team Focus Check-ins | |
+| 8  | Feb 29 | Team Focus Check-ins | |
+|    | Mar 4 | Team Focus Check-ins | |
+| 9  | Mar 6 | Team Focus Check-ins | |
+|    | Mar 11 | Team Focus Check-ins | |
+| 10 | Mar 13 | Team Focus Check-ins | |
+|    | Mar 18 | FINAL SHOWCASE | |
+
+
+
+
 
 | Week | Date | Topic | Deadlines|
 |------|--------|-------|----------|

@@ -1,7 +1,14 @@
 ---
 title: All Weeks
 ---
-
+| Week | Date | Topic | Deadlines|
+|------|--------|-------|----------|
+| 1    | Jan 8  | Course Motivation | |
+|      | Jan 10 | Challenge Unveiling | |
+| 2    | Jan 15 | Ask the Experts | |
+|      | Jan 17 | Map & Goals     | |
+| 3    | Jan 22 | Lightning Demos | |
+|      | Jan 24 | Art Gallery Proposals | |
 ## Week 1
 January 8
 : Course Motivation

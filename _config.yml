@@ -34,7 +34,7 @@ exclude:
   - any_additional_item # any user-specific listing goes at the end
 
 # Theme settings
-remote_theme: just-the-docs/just-the-docs@v0.4.2
+remote_theme: just-the-docs/just-the-docs@v0.7.0
 color_scheme: light
 search_enabled: true
 heading_anchors: true
@@ -43,7 +43,7 @@ aux_links:
   Canvas:
     - 'https://canvas.eee.uci.edu/'
   Discord:
-    - 'https://discord.gg/9UmUuWbe'
+    - 'https://discord.gg/4B4XyZsY6t'
   Github:
     - 'https://github.com/' 
   Gradescope:
@@ -63,7 +63,9 @@ defaults:
       type: staffers
     values:
       layout: staffer
+      height: 300
       subpath: '/assets/images/'
+      width: 300
   - scope:
       path: ''
       type: all_weeks
@@ -87,6 +89,3 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
-
-plugins:
-  - jekyll-seo-tag

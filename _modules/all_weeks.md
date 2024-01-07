@@ -10,11 +10,11 @@ title: All Weeks
 | 3      | Jan 22 | Lightning Demos |**Art Gallery Submission Due Jan 23rd 5p PST**{:label .label-blue} |
 |        | Jan 24 | Art Gallery Proposals |**HW1:DUE**{: .label .label-red}, **HW2: DataLoader OUT**|
 | 4      | Jan 29 | Tooling and Development Infrastructure | |
-|        | Jan 31 | Deep Learning Frameworks |**Revised Group Proposal DUE**{:label .label-red} |
-| 5      | Feb 5 | Computer Vision Tasks | |
-|        | Feb 7 | Computer Vision Tasks |**HW2:DUE**{: .label .label-red}, **HW3: Modeling OUT**|
-| 6      | Feb 12 | Semantic Segmentation | |
-|        | Feb 14 | Semantic Segmentation | |
+|        | Jan 31 | Deep Learning Frameworks |**Revised Group Proposal DUE**{:.label .label-red} |
+| 5      | Feb 5 | Proposal Presentations | |
+|        | Feb 7 | Overview of Computer Vision Tasks |**HW2:DUE**{: .label .label-red}, **HW3: Modeling OUT**|
+| 6      | Feb 12 | Supervised Techniques  | |
+|        | Feb 14 | Unsupervised and Semi-supervised Techniques | |
 | 7      | Feb 19 | Model Training and Monitoring | |
 |        | Feb 21 | Transfer Learning |**HW3:DUE**{: .label .label-red} |
 | 8      | Feb 26 | Team Focus Check-ins | |
@@ -23,7 +23,7 @@ title: All Weeks
 |        | Mar 6 | Team Focus Check-ins |**Pull Request**{: .label .label-blue} |
 | 10     | Mar 11 | Team Focus Check-ins | |
 |        | Mar 13 | Team Focus Check-ins |**Pull Request**{: .label .label-blue} |
-| FINALS | Mar 18 | FINAL SHOWCASE |**Poster by 2pm in DBH 4208**{:label .label-red}, **Tech Memo due by 3/20**{:label .label-red}|
+| FINALS | Mar 18 | FINAL SHOWCASE |**Poster by 2pm in DBH 4208**{:.label .label-red}, **Tech Memo due by 3/20**{:.label .label-red}|
 
 
 

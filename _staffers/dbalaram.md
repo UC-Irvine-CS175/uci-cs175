@@ -3,5 +3,5 @@ name: Dhanashree Balaram
 role: Domain Specialist
 photo: dbalaram.jpeg
 meta:
-  Volkswagen Innovation
+  Affiliation: Volkswagen Innovation{: .label .label-green}
 ---

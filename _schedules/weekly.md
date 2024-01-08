@@ -65,5 +65,14 @@ schedule:
         end: 8:20 PM
         location: SH 174
   - name: Thursday
+    events:
+      - name: Geunwoo OH
+        start: 8:00 AM
+        end: 10:00 AM
+        location: ICS 1 430D
+      - name: Geunwoo OH
+        start: 1:00 PM
+        end: 3:00 PM
+        location: ICS 1 430D
   - name: Friday
 ---

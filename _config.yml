@@ -17,6 +17,7 @@ title: Project in Artificial Intelligence
 tagline: CS 175
 description: Welcome to Project in Artificial Intelligence
 author: Nadia Ahmed
+
 #baseurl: "/uci-cs175"
 url: "https://UC-Irvine-CS175.github.io/uci-cs175" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/images/valentin_brain_logo.png"

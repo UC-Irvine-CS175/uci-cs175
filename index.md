@@ -9,7 +9,8 @@ nav_order: 1
 {: .mb-2 }
 {{ site.description }}
 {: .fs-6 .fw-300 }
-<b style='color: green'> 👋 Welcome!</b> Please start by reviewing the [syllabus](https://uc-irvine-cs175.github.io/uci-cs175/syllabus/).
+## <b style='color: green'> 👋 Welcome!</b> 
+Please start by reviewing the [syllabus](https://uc-irvine-cs175.github.io/uci-cs175/syllabus/).
 
 **👩‍🏫 Instructor:** Nadia Ahmed
 
@@ -29,7 +30,8 @@ In this course offering, collaborating domain specialists from the open source c
 
 [Ask the Experts: Zoom Room](https://uci.zoom.us/my/nadiauci){: .btn .btn-blue }
 
-**🎯 Course Grades:** Grades will be based on the following components:
+## **🎯 Course Grades:** 
+Grades will be based on the following components:
 
 | **Component** | **Weight** | **Notes** |
 | ------------- | ---------- |

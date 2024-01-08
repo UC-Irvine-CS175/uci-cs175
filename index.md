@@ -27,9 +27,6 @@ In this course offering, collaborating domain specialists from the open source c
 
 <b style='color: green'> 🛑 Prerequisites:</b> COMPSCI 171 and COMPSCI 178
 
-
-[Ask the Experts: Zoom Room](https://uci.zoom.us/my/nadiauci){: .btn .btn-blue }
-
 ## **🖍️ Miro Boards:**
   - **[Section A: MW 3:30-4:50p](https://miro.com/app/board/uXjVN8kFK4I=/?share_link_id=120736279658)**
   - **[Section B: W 5:30-8:20p](https://miro.com/app/board/uXjVN8kFKMc=/?share_link_id=828552320449)**

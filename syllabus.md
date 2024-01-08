@@ -59,9 +59,7 @@ Course content will be linked from this website but there are additional platfor
 
 - **[Canvas](https://canvas.eee.uci.edu/):** We will use Canvas to disseminate up to date information with respect to your grades. 
 
-- **[Gradescope](https://www.gradescope.com):** We will use Gradescope for assignment submission.
-
-- **[Github Classroom](https://classroom.github.com):** The final project in this course will involve programming in Python and dexterity with deep learning frameworks like PyTorch and PyTorch Lightning. We will also be using github actions, a continuous integration tool.
+- **[Github Classroom](https://classroom.github.com):** We will use Github classroom for assignments to help you build confidence for the final group project. The final project in this course will involve programming in Python and dexterity with deep learning frameworks like PyTorch and PyTorch Lightning. We will also be using github actions, a continuous integration tool.
 
 - **[Miro](https://miro.com/):** The whiteboard used in the project planning and design sprint phase.
   - **[Section A: Miro](https://miro.com/app/board/uXjVN8kFK4I=/?share_link_id=120736279658)**

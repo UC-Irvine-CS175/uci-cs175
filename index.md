@@ -30,20 +30,9 @@ In this course offering, collaborating domain specialists from the open source c
 
 [Ask the Experts: Zoom Room](https://uci.zoom.us/my/nadiauci){: .btn .btn-blue }
 
-## **🎯 Course Grades:** 
-Grades will be based on the following components:
-
-| **Component** | **Weight** | **Notes** |
-| ------------- | ---------- |
-| Participation | 15% | Attendance & Engagement |
-| Assignments | 20% | |
-| Proposal | 10% | |
-| Pull Requests | 15% |5% each x 3|
-| Status Report | 10% | |
-| Final Repository with Documentation | 10% | |
-| Poster | 5% | |
-| Presentation | 10% | |
-| Tech Memo | 5% | |
+## **🖍️ Miro Boards:**
+  - **[Section A: MW 3:30-4:50p](https://miro.com/app/board/uXjVN8kFK4I=/?share_link_id=120736279658)**
+  - **[Section B: W 5:30-8:20p](https://miro.com/app/board/uXjVN8kFKMc=/?share_link_id=828552320449)**
 
 ## 📆 Course Calendar
 {% for module in site.modules %}

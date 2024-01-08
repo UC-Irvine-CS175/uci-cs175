@@ -5,7 +5,7 @@ title: All Weeks
 |--------|------|-------|-----------|
 | 1      | Jan 8 | Course Motivation | [Hidden Technical Debt](https://proceedings.neurips.cc/paper_files/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)|
 |        | Jan 10 | Challenge Unveiling | |
-| 2      | Jan 15 | MLK Day 🎆 |**HW1: Exploratory Data Analysis OUT**|
+| 2      | Jan 15 | MLK Day 🎉 |**HW1: Exploratory Data Analysis OUT**|
 |        | Jan 17 | Ask the Experts |**Lightning Demo Due Jan 21st 7p PST**{:label .label-blue} |
 | 3      | Jan 22 | HMW Categorization & Lightning Demos |**Art Gallery Submission Due Jan 23rd 5p PST**{:label .label-blue} |
 |        | Jan 24 | Art Gallery Proposals |**HW1:DUE**{: .label .label-red} **HW2: DataLoader OUT**|

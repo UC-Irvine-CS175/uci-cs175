@@ -26,7 +26,7 @@ In this course offering, a collaborating domain specialist from the open source 
 Prerequisites: COMPSCI 171 and COMPSCI 178
 
 ### Acknowledgements
-This course is adapted from UC Berkeley's CS194-080 Full Stack Deep Learning, created by Sergey Karayev, Josh Tobin, and Pieter Abbeel with recent contributions from Charles Frye. The course research workflow is inspired by the Heliophysics Inovation in Technology and Science Solar Dynamics Observatory (HITS-SDO) program coordinated by Subhamoy Chatterjee and Andres Jaramillo-Munoz of Southwest Research Institute with contributions from Anirudh Koul co-author of [Practical Deep Learning for Coud, Mobile, and Edge](https://learning.oreilly.com/library/view/practical-deep-learning/9781492034858/). Finally, this unique opportunity would not be possible without the contributions of Lauren Sanders of Blue Marble Space Institute of Science and NASA GeneLab.
+This course is adapted from UC Berkeley's CS194-080 Full Stack Deep Learning, created by Sergey Karayev, Josh Tobin, and Pieter Abbeel with recent contributions from Charles Frye and Jake Knapp's The Sprint. The course research workflow is inspired by the 2023 Heliophysics Inovation in Technology and Science Solar Dynamics Observatory (HITS-SDO) SEARCH program coordinated by Subhamoy Chatterjee and Andres Jaramillo-Munoz of Southwest Research Institute. Finally, this quarter's research challenge would not be possible without the contributions of the IEEE Image Analysis and Data Fusion Technical Committee (IADFTC) of the Geoscience and Remote Sensing Society (GRSS) who worked with the wider community to put together remote sensing challenges through their annuall Data Fusion contests.
 
 ### Lecture
 There are two sections for the course:
@@ -55,7 +55,7 @@ Office hours are a great opportunity to get your questions answered with respect
 
 Course content will be linked from this website but there are additional platforms that you'll need to access:
 
-- **[Discord](https://discord.gg/8faDygwq):** We will be using Discord as our course message and discussion board.
+- **[Discord](https://discord.gg/4B4XyZsY6t):** We will be using Discord as our course message and discussion board.
 
 - **[Canvas](https://canvas.eee.uci.edu/):** We will use Canvas to disseminate up to date information with respect to your grades. 
 
@@ -63,7 +63,9 @@ Course content will be linked from this website but there are additional platfor
 
 - **[Github Classroom](https://classroom.github.com):** The final project in this course will involve programming in Python and dexterity with deep learning frameworks like PyTorch and PyTorch Lightning. We will also be using github actions, a continuous integration tool.
 
-- **[Miro](https://miro.com/app/board/uXjVMWu-Mho=/):** The whiteboard used in the project planning and design sprint phase.
+- **[Miro](https://miro.com/):** The whiteboard used in the project planning and design sprint phase.
+  - **[Section A: Miro](https://miro.com/app/board/uXjVN8kFK4I=/?share_link_id=120736279658)**
+  - **[Section B: Miro](https://miro.com/app/board/uXjVN8kFKMc=/?share_link_id=828552320449)**
 
 {: .warning }
 **Note that we will be using Canvas only as a gradebook this quarter. Please do not contact the staff through Canvas -- we will be focusing our attention on Discord**
@@ -72,13 +74,13 @@ In addition to the course tools, we will use several different tools to develop 
 
 - We will use [PyTorch](https://pytorch.org/) and [PyTorch Lightning](https://www.pytorchlightning.ai/).
   
-- We will use CNNs and Transformers for different tasks.
+- We will use Deep Learning for different computer vision tasks.
   
-- We will manage and monitor our experiments using [Weights & Biases](https://docs.wandb.ai/)
+- We will manage and monitor our experiments using [Weights & Biases](https://docs.wandb.ai/).
   
-- We will package and deploy our system
+- We will package and deploy our system.
   
-- We will set up a front-end using [Gradio](https://gradio.app/docs) or [Streamlit](https://streamlit.io/)
+- We will set up a front-end using [Gradio](https://gradio.app/docs) or [Streamlit](https://streamlit.io/).
   
 
 ## Communication
@@ -95,11 +97,11 @@ Assignments will help you gain practice with tools and concepts from machine lea
 ### Project Proposal
 The project proposal will be due early in the quarter following the close of the design sprint. It should represent the full end-to-end solution proposed and identify why it may be beneficial to the original research question it seeks to answer. It should include all team members involved along with a flowchart describing all system components, timeline, and proposed team schedule.
 
-### Pull Request Friday
-Code reviews for each team will take place every Friday in discussion section. The team must designate a rotating member to present the issue the pull request closed, explain the code, and screenshare with the teaching staff. Based on the feedback received by the staff, if the merge is made, the team will receive full credit or will have to refactor.
+### Pull Request Days
+Code reviews for each team will take place throughout the quarter. It is recommended that teams open github issues for each feature or enhancement they would like to add to their project and create a development branch using their issue number. The team must designate a rotating member to initiate the pull request, the corresponding issue that would close, explain changes, and screenshot outcomes for their discussion TA to review. Following feedback received by the staff, team members must adjust and merge the changes by the deadline specified to receive full credit.
 
-### Status Report
-Present midterm milestones that have been reached as well as refinement of the ML system components. At this stage, baseline models should be identified and prototyped.
+### Status Report & Finalized Proposal
+Present midterm milestones that have been reached as well as refinement of the ML system components. At this stage, baseline models should be identified and prototyped in addition to the presentation of a team accountability and reporting policy.
 
 ### The Final Project
 For the final project, you can work in groups of 4 people maximum. In terms of time commitment, expect to take roughly **40 hours per person total**.
@@ -108,7 +110,7 @@ Your final project will be graded based on several factors.
   * Repository - The repository must have the appropriate structure and documentation for reproducibility of the study.
   * Technical Memorandum - Final project paper (template to be linked)
   * Poster - A companion poster presentation
-  * Final Showcase Presentation - A short 5 min project presentation that will be recorded and open to the public June 14, 2023 from 4-6p PST.
+  * Final Showcase Presentation - A short 5 min project presentation that will be recorded and open to the public March 18, 2024 from 4-6p PST for Section A and TBD for Section B.
 
 ### Deadlines and Grace Days
 Life happens, we get it. Each student is allowed up to **3 "grace days"** to use towards their individual assignement and each team is allowed **4 "grace days"** to use towards their project deadlines. How you choose to distribute them is up to you but once you run out, and you still haven't submitted the assignment you will receive a zero for the assignment. Due to the time sensitivity of the task, design sprint exercises are not eligible for "grace day" usage. If you submit team project proposal, status report, or final project items late you and all team members will have to use grace days.

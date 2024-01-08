@@ -3,7 +3,7 @@ title: All Weeks
 ---
 |  Week  | Date | Topic | Deadlines |
 |--------|------|-------|-----------|
-| 1      | Jan 8 | Course Motivation | |
+| 1      | Jan 8 | Course Motivation | [Hidden Technical Debt](https://proceedings.neurips.cc/paper_files/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)|
 |        | Jan 10 | Challenge Unveiling | |
 | 2      | Jan 15 | MLK Day :fireworks: |**HW1: Exploratory Data Analysis OUT**|
 |        | Jan 17 | Ask the Experts |**Lightning Demo Due Jan 21st 7p PST**{:label .label-blue} |

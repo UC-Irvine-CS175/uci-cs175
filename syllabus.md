@@ -55,7 +55,7 @@ Office hours are a great opportunity to get your questions answered with respect
 
 Course content will be linked from this website but there are additional platforms that you'll need to access:
 
-- **[Discord](https://discord.gg/4B4XyZsY6t):** We will be using Discord as our course message and discussion board.
+- **[Discord](https://discord.gg/cjFSr3ejqW):** We will be using Discord as our course message and discussion board.
 
 - **[Canvas](https://canvas.eee.uci.edu/):** We will use Canvas to disseminate up to date information with respect to your grades. 
 

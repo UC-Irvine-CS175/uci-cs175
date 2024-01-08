@@ -16,12 +16,12 @@ nav_order: 2
 {:toc}
 
 ---
-## About and Student Learning Outcomes
+## About
 Welcome to CS 175: Project in Artificial Intelligence!
 
-This course aims to enable students to construct a working artificial intelligence system and evaluate its capabilities, including the impact of knowledge representation on a real-world problem. 
+This course aims to enable students to construct a working artificial intelligence system and evaluate its capabilities, including the impact of knowledge representation on a real-world problem.
 
-In this course offering, a collaborating domain specialist from the open source community will present the class with a use case that can benefit from the application of machine learning in its understanding of a particular phenomenon. Facilitated by the instructional staff, small student teams will assess the needs and requirements of the problem while developing project proposals. Using best practices from software engineering, students will develop project repositories that demonstrate good modular design with respect to different components of their machine learning pipeline. Documentation, testing, version control, and continuous integration practices ensure that the system is reproducible. Students will present in the Final Showcase to collaborating subject matter experts and the broader community. 
+In this course offering, collaborating domain specialists from the open source community will highlight use cases that can benefit from the application of machine learning in its understanding of a particular phenomenon. Facilitated by the instructional staff, small student teams will assess the needs and requirements of the problem while developing project proposals. Using best practices from software engineering, students will develop project repositories that demonstrate good modular design with respect to different components of their machine learning pipeline. Documentation, testing, version control, and continuous integration practices ensure that the system is reproducible. Students will present in their results in a Final Showcase to collaborating subject matter experts and the broader community. 
 
 Prerequisites: COMPSCI 171 and COMPSCI 178
 
@@ -68,6 +68,7 @@ Course content will be linked from this website but there are additional platfor
 {: .warning }
 **Note that we will be using Canvas only as a gradebook this quarter. Please do not contact the staff through Canvas -- we will be focusing our attention on Discord**
 
+## Student Learning Outcomes
 In addition to the course tools, we will use several different tools to develop our machine learning models.
 
 - We will use [PyTorch](https://pytorch.org/) and [PyTorch Lightning](https://www.pytorchlightning.ai/).

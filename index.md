@@ -9,13 +9,15 @@ nav_order: 1
 {: .mb-2 }
 {{ site.description }}
 {: .fs-6 .fw-300 }
-<b style='color: green'> 👋 Welcome!</b> Please start by reviewing the [syllabus]().
-**Instructor:** Nadia Ahmed
-**Time and Location:** There are two sections for the course:
+<b style='color: green'> 👋 Welcome!</b> Please start by reviewing the [syllabus](https://uc-irvine-cs175.github.io/uci-cs175/syllabus/).
+
+**👩‍🏫 Instructor:** Nadia Ahmed
+
+**🕞 Time and Location:** There are two sections for the course:
 - Lecture A: MW 3:30-4:50p [ALP 1600](https://classrooms.uci.edu/classroomtechnology/classrooms/alp/alp-1600)
 - Lecture B: W 5:30 - 8:20p [SH 174](https://classrooms.uci.edu/classroomtechnology/classrooms/sh/sh-174)
   
-**Staff Contact:** The best way to reach the staff is by making posts on the [CS175 Discord Server](https://discord.gg/4B4XyZsY6t).
+**📲 Staff Contact:** The best way to reach the staff is by making posts on the [CS175 Discord Server](https://discord.gg/4B4XyZsY6t).
 
 
 This course aims to enable students to construct a working artificial intelligence system and evaluate its capabilities, including the impact of knowledge representation on a real-world problem.
@@ -27,7 +29,7 @@ In this course offering, collaborating domain specialists from the open source c
 
 [Ask the Experts: Zoom Room](https://uci.zoom.us/my/nadiauci){: .btn .btn-blue }
 
-**Course Grades** 
+**🎯 Course Grades:** Grades will be based on the following components:
 
 | **Component** | **Weight** | **Notes** |
 | ------------- | ---------- |
@@ -41,6 +43,7 @@ In this course offering, collaborating domain specialists from the open source c
 | Presentation | 10% | |
 | Tech Memo | 5% | |
 
+## 📆 Course Calendar
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}

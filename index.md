@@ -18,7 +18,7 @@ Please start by reviewing the [syllabus](https://uc-irvine-cs175.github.io/uci-c
 - Lecture A: MW 3:30-4:50p [ALP 1600](https://classrooms.uci.edu/classroomtechnology/classrooms/alp/alp-1600)
 - Lecture B: W 5:30 - 8:20p [SH 174](https://classrooms.uci.edu/classroomtechnology/classrooms/sh/sh-174)
   
-**📲 Staff Contact:** The best way to reach the staff is by making posts on the [CS175 Discord Server](https://discord.gg/cjFSr3ejqW).
+**📲 Staff Contact:** The best way to reach the staff is by making posts on the [CS175 Discord Server](https://discord.gg/rDtGDHpVhV).
 
 
 This course aims to enable students to construct a working artificial intelligence system and evaluate its capabilities, including the impact of knowledge representation on a real-world problem.

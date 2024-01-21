@@ -5,19 +5,19 @@ title: All Weeks
 |--------|------|-------|-----------|
 | 1      | Jan 8 | Course Motivation | [Hidden Technical Debt](https://proceedings.neurips.cc/paper_files/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)|
 |        | Jan 10 | Challenge Unveiling | |
-| 2      | Jan 15 | MLK Day 🎉 |**HW1: Exploratory Data Analysis OUT**|
-|        | Jan 17 | [Ask the Experts: Zoom](https://uci.zoom.us/my/nadiauci){: .btn .btn-blue }|**Lightning Demo Due Jan 21st 7p PST**{:label .label-blue} |
+| 2      | Jan 15 | MLK Day 🎉 ||
+|        | Jan 17 | [Ask the Experts: Zoom](https://uci.zoom.us/my/nadiauci){: .btn .btn-blue }|**Lightning Demo Due Jan 21st 7p PST**{:label .label-blue}**HW1: Exploratory Data Analysis OUT** |
 | 3      | Jan 22 | HMW Categorization & Lightning Demos |**Art Gallery Submission Due Jan 23rd 5p PST**{:label .label-blue} |
-|        | Jan 24 | Art Gallery Proposals |**HW1:DUE**{: .label .label-red} **HW2: DataLoader OUT**|
-| 4      | Jan 29 | Tooling and Development Infrastructure | |
-|        | Jan 31 | Deep Learning Frameworks |**Revised Group Proposal DUE**{:.label .label-red} |
+|        | Jan 24 | Art Gallery Proposals | |
+| 4      | Jan 29 | Tooling and Development Infrastructure |**HW2: DataLoader OUT** |
+|        | Jan 31 | Deep Learning Frameworks |**HW1:DUE**{: .label .label-red} **Revised Group Proposal DUE**{:.label .label-red} |
 | 5      | Feb 5 | Proposal Presentations | |
-|        | Feb 7 | Overview of Computer Vision Tasks |**HW2:DUE**{: .label .label-red} **HW3: Modeling OUT**|
-| 6      | Feb 12 | Supervised Techniques  | |
+|        | Feb 7 | Overview of Computer Vision Tasks ||
+| 6      | Feb 12 | Supervised Techniques  |**HW2:DUE**{: .label .label-red} **HW3: Modeling OUT** |
 |        | Feb 14 | Unsupervised and Semi-supervised Techniques | |
 | 7      | Feb 19 | Model Training and Monitoring | |
-|        | Feb 21 | Transfer Learning |**HW3:DUE**{: .label .label-red} |
-| 8      | Feb 26 | Team Focus Check-ins | |
+|        | Feb 21 | Transfer Learning | |
+| 8      | Feb 26 | Team Focus Check-ins |**HW3:DUE**{: .label .label-red} |
 |        | Feb 28 | Team Focus Check-ins |**Pull Request**{: .label .label-blue} |
 | 9      | Mar 4 | Team Focus Check-ins | |
 |        | Mar 6 | Team Focus Check-ins |**Pull Request**{: .label .label-blue} |

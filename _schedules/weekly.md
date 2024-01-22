@@ -65,7 +65,7 @@ schedule:
         end: 8:20 PM
         location: SH 174
   - name: Thursday
-      events:
+    events:
       - name: JW OH
         start: 8:00 AM
         end: 10:00 AM

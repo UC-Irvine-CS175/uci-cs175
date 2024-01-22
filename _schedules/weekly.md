@@ -35,14 +35,14 @@ schedule:
       - name: Dis A2
         start: 12:00 PM
         end: 12:50 PM
-      - name: NA OH
-        start: 2:00 PM
-        end: 3:00 PM
-        location: TBD
       - name: Lecture A
         start: 3:30 PM
         end: 4:50 PM
         location: ALP 1600 
+      - name: NA OH
+        start: 5:00 PM
+        end: 7:00 PM
+        location: ALP tables
   - name: Tuesday
   - name: Wednesday
     events:
@@ -52,10 +52,10 @@ schedule:
       - name: Dis B2
         start: 12:00 PM
         end: 12:50 PM
-      - name: NA OH
-        start: 2:00 PM
+      - name: ZZ OH
+        start: 1:00 PM
         end: 3:00 PM
-        location: TBD
+        location: ICS Rm 458B
       - name: Lecture A
         start: 3:30 PM
         end: 4:50 PM
@@ -65,5 +65,10 @@ schedule:
         end: 8:20 PM
         location: SH 174
   - name: Thursday
+      events:
+      - name: JW OH
+        start: 8:00 AM
+        end: 10:00 AM
+        location: ICS Rm 458B
   - name: Friday
 ---

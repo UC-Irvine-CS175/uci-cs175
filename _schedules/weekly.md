@@ -42,7 +42,7 @@ schedule:
       - name: NA OH
         start: 5:00 PM
         end: 7:00 PM
-        location: ALP tables
+        location: ALP
   - name: Tuesday
   - name: Wednesday
     events:

@@ -7,9 +7,9 @@ title: All Weeks
 |        | Jan 10 | Challenge Unveiling | |
 | 2      | Jan 15 | MLK Day 🎉 ||
 |        | Jan 17 | [Ask the Experts: Zoom](https://uci.zoom.us/my/nadiauci){: .btn .btn-blue }|**Lightning Demo Due Jan 21st 7p PST**{:label .label-blue}**HW1: Exploratory Data Analysis OUT** |
-| 3      | Jan 22 | HMW Categorization & Lightning Demos |**Art Gallery Submission Due Jan 23rd 5p PST**{:label .label-blue} |
-|        | Jan 24 | Art Gallery Proposals | |
-| 4      | Jan 29 | Tooling and Development Infrastructure |**HW2: DataLoader OUT** |
+| 3      | Jan 22 | HMW Categorization & Lightning Demos ||
+|        | Jan 24 | Lightning Demo Continued | **Art Gallery Submission Due Jan 28th 5p PST**{:label .label-blue} |
+| 4      | Jan 29 | Art Gallery Proposals, Tooling and Development Infrastructure |**HW2: DataLoader OUT** |
 |        | Jan 31 | Deep Learning Frameworks |**HW1:DUE**{: .label .label-red} **Revised Group Proposal DUE**{:.label .label-red} |
 | 5      | Feb 5 | Proposal Presentations | |
 |        | Feb 7 | Overview of Computer Vision Tasks ||

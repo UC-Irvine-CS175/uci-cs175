@@ -20,8 +20,9 @@ title: All Weeks
 |        | Feb 21 | [Model Training and Monitoring & Transfer Learning](https://docs.google.com/presentation/d/1L4QwP4ovatYnONZgFZ-4zj5Gq1zfz8zOzPGKtNy6pTE/edit?usp=sharing) |**HW2:DUE**{: .label .label-red} **HW3: Modeling OUT** |
 | 8      | Feb 26 | [Semantic Segmentation](https://docs.google.com/presentation/d/1LkbgDG7l2s3LSlUZxQh8YHi_EDSnMwbQWsiGEEJHmz4/edit?usp=sharing) & [Self-supervised Techniques](https://docs.google.com/presentation/d/14ZxN91i1PxIpfmB9eZsEsRuhiVg-vKhBP9HGteSrRho/edit?usp=sharing) |**Final Project: Empty Repo OUT** |
 |        | Feb 28 | Team Focus Check-ins | |
-| 9      | Mar 4 | Team Focus Check-ins |**HW3:DUE**{: .label .label-red}  |
+| 9      | Mar 4 | Team Focus Check-ins | |
 |        | Mar 6 | Team Focus Check-ins |**Pull Request**{: .label .label-blue} |
+|        | Mar 8 |                      |**HW3:DUE**{: .label .label-red} |
 | 10     | Mar 11 | Team Focus Check-ins | |
 |        | Mar 13 | Team Focus Check-ins |**Pull Request**{: .label .label-blue} |
 | FINALS | Mar 18 | FINAL SHOWCASE |**Poster by 2pm in DBH 4208**{:.label .label-red} **Tech Memo due by 3/20**{:.label .label-red}|

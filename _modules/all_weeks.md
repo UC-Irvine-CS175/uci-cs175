@@ -25,4 +25,5 @@ title: All Weeks
 |        | Mar 8 |                      |**HW3:DUE**{: .label .label-red} |
 | 10     | Mar 11 | Team Focus Check-ins | |
 |        | Mar 13 | Team Focus Check-ins |**Pull Request**{: .label .label-blue} |
-| FINALS | Mar 18 | FINAL SHOWCASE |**Poster by 2pm in DBH 4208**{:.label .label-red} **Tech Memo due by 3/20**{:.label .label-red}|
+| FINALS | Mar 18 | FINAL SHOWCASE |**Poster by 4pm in Social Science Plaza A 1100 (SSPA 1100)**{:.label .label-red} |
+| FINALS | Mar 22 | Technical Memorandum | **Tech Memo due by 3/22**{:.label .label-red} |
